@@ -15,7 +15,7 @@ The dataset for this project was gathered from:
 [Whole transcriptome miRNA profiling of Coronavirus Disease 2019 (COVID-19) patient plasma](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE178246)
 
 ## Result
-
+![image](https://github.com/alicewoo0925/miRNA-COVID19detection/assets/48823257/5dd52f9e-e3a9-4366-acb4-68a6e71ce333)
 
 ## Meet Our Team
 The success of this project is attributed to the remarkable commitment and steadfast efforts of our team members:
