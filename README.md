@@ -18,7 +18,7 @@ The dataset for this project was gathered from:
 ## Meet Our Team
 The success of this project is attributed to the remarkable commitment and steadfast efforts of our team members:
 
-- **[Alice Yoonjung Woo](https://www.linkedin.com/in/yoonjung-woo-7240b5174/)**
+- **[Alice Yoonjung Woo](https://www.linkedin.com/in/alice-yoonjung-woo/)**
 - **[Charlotte Dong](https://www.linkedin.com/in/charlotte-dong-75131a1b3/)**
 - **[Jay Jiayang Zhang](https://www.linkedin.com/in/jay-jiayang-zhang-002680180/)**
 
